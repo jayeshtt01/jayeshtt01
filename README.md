@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshtt01&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshtt01" /> </p>
 
-- 💬 Ask me about **Python,PySpark,Amazon Web Services(AWS) Azure Data Factory(ADF),SQL,Snowflake**
+- 💬 Ask me about **Python,SQL,PySpark,Amazon Web Services(AWS) Azure Data Factory(ADF),Snowflake,Airbyte,DBT(Data Build Tool)**
 
 - 📫 How to reach me **jjayeshpatidar0808@gmail.com**
 
